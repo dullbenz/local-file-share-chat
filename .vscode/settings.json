@@ -1,0 +1,10 @@
+{
+    "eslint.options": {
+        "extensions": [".js", ".vue"]
+    },
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "vue"
+    ]
+}
